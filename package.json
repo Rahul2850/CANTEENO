@@ -1,0 +1,15 @@
+{
+  "name": "college-canteen",
+  "version": "1.0.0",
+  "description": "![image](https://github.com/ShafiMohammad09/College-Canteen/assets/128287059/f331462b-9fee-44d2-8a31-b112de8e76ca)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
